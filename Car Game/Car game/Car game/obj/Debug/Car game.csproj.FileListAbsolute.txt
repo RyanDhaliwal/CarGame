@@ -1,0 +1,11 @@
+C:\Users\Ryan\Documents\Car Game\Car game\Car game\obj\Debug\Car game.csproj.AssemblyReference.cache
+C:\Users\Ryan\Documents\Car Game\Car game\Car game\obj\Debug\Car game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryan\Documents\Car Game\Car game\Car game\obj\Debug\Car_game.Form1.resources
+C:\Users\Ryan\Documents\Car Game\Car game\Car game\obj\Debug\Car_game.Properties.Resources.resources
+C:\Users\Ryan\Documents\Car Game\Car game\Car game\obj\Debug\Car game.csproj.GenerateResource.cache
+C:\Users\Ryan\Documents\Car Game\Car game\Car game\obj\Debug\Car game.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\Car Game\Car game\Car game\bin\Debug\Car game.exe.config
+C:\Users\Ryan\Documents\Car Game\Car game\Car game\bin\Debug\Car game.exe
+C:\Users\Ryan\Documents\Car Game\Car game\Car game\bin\Debug\Car game.pdb
+C:\Users\Ryan\Documents\Car Game\Car game\Car game\obj\Debug\Car game.exe
+C:\Users\Ryan\Documents\Car Game\Car game\Car game\obj\Debug\Car game.pdb
